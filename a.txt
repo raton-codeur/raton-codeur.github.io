@@ -1,0 +1,80 @@
+// int main()
+// {
+// 	// // ["bonjour", "tout", "le", "monde", NULL]
+// 	// char const *s = "bonjour tout le monde";
+// 	// char c = ' ';
+// 	// char **result = ft_split(s, c);
+// 	// int i = 0;
+// 	// while (result[i])
+// 	// 	printf("<%s>\n", result[i++]);
+// 	// printf("<%s>\n", result[i++]);
+
+// 	// // ["salut", NULL]
+// 	// char const *s = "salut";
+// 	// char c = ' ';
+// 	// char **result = ft_split(s, c);
+// 	// int i = 0;
+// 	// while (result[i])
+// 	// 	printf("<%s>\n", result[i++]);
+// 	// printf("<%s>\n", result[i++]);
+
+// 	// // ["salut", NULL]
+// 	// char const *s = "  salut  ";
+// 	// char c = ' ';
+// 	// char **result = ft_split(s, c);
+// 	// int i = 0;
+// 	// while (result[i])
+// 	// 	printf("<%s>\n", result[i++]);
+// 	// printf("<%s>\n", result[i++]);
+
+// 	// // ["et", "salut", NULL]
+// 	// char const *s = " et  salut ";
+// 	// char c = ' ';
+// 	// char **result = ft_split(s, c);
+// 	// int i = 0;
+// 	// while (result[i])
+// 	// 	printf("<%s>\n", result[i++]);
+// 	// printf("<%s>\n", result[i++]);
+
+// 	// // ["salut toi", NULL]
+// 	// char const *s = "salut toi";
+// 	// char c = '\0';
+// 	// char **result = ft_split(s, c);
+// 	// int i = 0;
+// 	// while (result[i])
+// 	// 	printf("<%s>\n", result[i++]);
+// 	// printf("<%s>\n", result[i++]);
+
+// 	// // [NULL]
+// 	// char const *s = "";
+// 	// char c = '\0';
+// 	// char **result = ft_split(s, c);
+// 	// int i = 0;
+// 	// while (result[i])
+// 	// 	printf("<%s>\n", result[i++]);
+// 	// printf("<%s>\n", result[i++]);
+
+// 	// // [NULL]
+// 	// char const *s = "";
+// 	// char c = ' ';
+// 	// char **result = ft_split(s, c);
+// 	// int i = 0;
+// 	// while (result[i])
+// 	// 	printf("<%s>\n", result[i++]);
+// 	// printf("<%s>\n", result[i++]);
+
+// 	// // [NULL]
+// 	// char const *s = "      ";
+// 	// char c = ' ';
+// 	// char **result = ft_split(s, c);
+// 	// int i = 0;
+// 	// while (result[i])
+// 	// 	printf("<%s>\n", result[i++]);
+// 	// printf("<%s>\n", result[i++]);
+
+// 	// // NULL
+// 	// char const *s = NULL;
+// 	// char c = ' ';
+// 	// char **result = ft_split(s, c);
+// 	// printf("<%s>\n", (char *)result);
+// }
